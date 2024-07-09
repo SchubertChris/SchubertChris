@@ -1,11 +1,15 @@
-#👋  Hi, I’m Chris Schubert
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning by DCI - Digital Carreer Institut 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey, mein Name ist Chris Schubert```
 
-<!---
-SchubertChris/SchubertChris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+------------------------------------------------
+
+- :stuck_out_tongue_winking_eye: Ich lebe in Deutschland - Potsdam 
+
+- :sunglasses: Ich bin 30 Jahre und ich mache eine weiterbildung zum Fullstack-Entwickler
+
+- :exclamation: Seit dem ich 10 bin sitze ich schon am Computer 
+
+- :eyes: Ich bringe einiges an Vorerfahrung mit, da ich die Computer und Netzwerke meine Familie einrichte und verwalte. Mein Computer plane, baue und richte den Softwareteil selbst ein. 
+
+- :v: Ich freue mich auf neue Bekanntschaften und spannende Projekte
+
+- :busts_in_silhouette: Schreib mir direkt hier: schubert_chris¶ocketmail.com
