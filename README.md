@@ -1,4 +1,4 @@
-```Hey, mein Name ist Chris Schubert``` :laptop:
+```Hey, mein Name ist Chris Schubert``` 💻
 
 ------------------------------------------------
 
