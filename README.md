@@ -27,8 +27,6 @@
 
 ### 📬 Kontakt
 - **E-Mail**: [Schubert_Chris@rocketmail.com](mailto:Schubert_Chris@rocketmail.com)  
-- **Candlescope**: [candlescope.de](https://candlescope.de)  
-- **Instagram**: [@candlescope](https://www.instagram.com/candlescope/)
 
 ---
 
