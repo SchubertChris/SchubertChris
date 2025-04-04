@@ -1,12 +1,12 @@
 # 👋 Hey, ich bin Chris Schubert!
 
-### 🚀 **Fullstackentwickler in Ausbildung** aus Potsdam mit einer Leidenschaft für **Trading**, **Technische Analyse** und das Entwickeln von **Trading-Bots**.
+### 🚀 **Einzelunternehmer** aus Potsdam mit einer Leidenschaft für **Trading**, **Technische Analyse** und das Entwickeln von **Trading-Bots**.
 
 ---
 
 ### 💡 Über mich
-- Ich betreibe die Webseite **[Candlescope](https://candlescope.de)**, wo ich Trading-Kurse und **Bots** anbiete.
-- Meine Tech-Stack umfasst: **HTML**, **SCSS**, **Bootstrap**, **Typescript** und **JavaScript**.
+- Ich betreibe die Instagramseite **Candlescope**, wo ich Trading-Kurse und **Bots** anbiete.
+- Meine Tech-Stack umfasst: **HTML**, **SCSS**, **React**, **Typescript** und **JavaScript**.
 - Ich erstelle **TradingView-Skripte**, die Fibonacci-Levels, Bollinger-Bänder und Volumenprofile berechnen und Trades visualisieren. 📊
 - Auf **Instagram** teile ich regelmäßig Krypto- und Trading-Analysen. 📱
 
@@ -14,7 +14,6 @@
 
 ### 🎯 **Was ich mache**
 - Entwickle **Krypto-Analysen** und **Trading-Strategien** 🧠.
-- Arbeite an coolen **Trading-Tools** und **Bots** 🤖.
 - Helfe Einsteigern, den Weg durch die Welt der Charts zu finden.
 
 ---
