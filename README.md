@@ -1,6 +1,6 @@
 # 👋 Hey, ich bin Chris Schubert!
 
-### 🚀 **Einzelunternehmer** aus Potsdam mit einer Leidenschaft für **Trading**, **Technische Analyse** und das Entwickeln von **Trading-Bots**.
+### 🚀 **Web Developer mit Serviceerfahrung** aus Potsdam mit einer Leidenschaft für **Trading**, **Technische Analyse** und das Entwickeln von **Trading-Bots**.
 
 ---
 
