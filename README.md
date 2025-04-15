@@ -34,9 +34,9 @@ Ich entwickle moderne Frontends, baue eigene **Trading-Bots & Tools** und arbeit
 
 ## 🛠️ Tech Stack
 
-| 🖥️ Frontend           | ⚙️ Workflow & Tools       | 🤖 Backend & KI / Automatisierung |
-|------------------------|----------------------------|------------------------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenAI](https://img.shields.io/badge/ChatGPT-10a37f?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_AI-000000?style=flat&logo=anthropic&logoColor=white) |
+| 🖥️ Frontend           | ⚙️ Workflow & Tools                          | 🤖 Backend & KI / Automatisierung            |
+|------------------------|----------------------------------------------|---------------------------------------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![KI-Systeme](https://img.shields.io/badge/KI_Systeme-AI?style=flat&logo=openai&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 🏗️ ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 🏗️ ![OpenAI](https://img.shields.io/badge/ChatGPT-10a37f?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_AI-000000?style=flat&logo=anthropic&logoColor=white) |
 
 ---
 
@@ -70,5 +70,3 @@ Ich entwickle moderne Frontends, baue eigene **Trading-Bots & Tools** und arbeit
 ---
 
 > **„Ich automatisiere, was andere manuell machen – für maximale Effizienz & Freiheit.“**
-
----
