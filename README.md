@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, ich bin Chris Schubert</h1>
 <h3 align="center">Webentwickler | Trading-Enthusiast | Automatisierungs-Freak aus Potsdam</h3>
 
-<img src="https://github.com/user-attachments/assets/23e9f9e8-dbd8-4bc6-969a-d64b6698e4cd" width="300" height="300" />
-<img src="https://github.com/user-attachments/assets/8ae6a48a-2481-4af2-8af6-b05352ae927b" width="300" height="500" alt="Profilbild1">
-
+<img src="https://github.com/user-attachments/assets/23e9f9e8-dbd8-4bc6-969a-d64b6698e4cd" width="250" height="250" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://github.com/user-attachments/assets/8ae6a48a-2481-4af2-8af6-b05352ae927b" width="250" height="400" alt="Profilbild1" style="display: block; margin-left: auto; margin-right: auto;" />
 
 
 <p align="center">
