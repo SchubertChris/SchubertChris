@@ -46,8 +46,8 @@
 
 ## 🚀 Über mich
 
-Ich bin ein engagierter Quereinsteiger mit über 13 Jahren Service-Erfahrung auf Top-Level und einer großen Leidenschaft für **Webentwicklung**, **KI-Automatisierung** und **Trading**.  
-Ich entwickle moderne Frontends, baue eigene **Trading-Bots & Tools** und arbeite mit KI-Systemen wie **ChatGPT** & **Claude.ai**, um Prozesse, Code und Märkte smarter zu analysieren.
+Ich bin ein engagierter Quereinsteiger mit über 13 Jahren Service-Erfahrung auf Top-Level und einer großen Leidenschaft für Webentwicklung, KI-Automatisierung und Trading. Ich entwickle moderne Frontends und strebe in Zukunft an, eigene Trading-Bots und -Tools zu erstellen. Dabei arbeite ich mit AI-Systemen wie ChatGPT und Claude.ai, um Prozesse, Code und Märkte smarter zu analysieren und meine Arbeit so effizient wie möglich zu gestalten.
+Ich bin überzeugt, dass der Mensch nicht alles selbst machen muss. Stattdessen sollten wir die Errungenschaften der Gesellschaft nutzen, um die Welt kontinuierlich zu automatisieren und zu verbessern. Was denkst du darüber?
 
 ---
 
