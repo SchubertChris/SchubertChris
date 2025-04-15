@@ -2,7 +2,7 @@
 <h3 align="center">Webentwickler | Trading-Enthusiast | Automatisierungs-Freak aus Potsdam</h3>
 
 <img src="https://github.com/user-attachments/assets/23e9f9e8-dbd8-4bc6-969a-d64b6698e4cd" width="300" height="300" />
-<img src="https://github.com/user-attachments/assets/8ae6a48a-2481-4af2-8af6-b05352ae927b" width="500" height="300" alt="Profilbild1">
+<img src="https://github.com/user-attachments/assets/8ae6a48a-2481-4af2-8af6-b05352ae927b" width="300" height="500" alt="Profilbild1">
 
 
 
