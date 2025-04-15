@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, ich bin Chris Schubert</h1>
 <h3 align="center">Webentwickler | Trading-Enthusiast | Automatisierungs-Freak aus Potsdam</h3>
 
+![download](https://github.com/user-attachments/assets/23e9f9e8-dbd8-4bc6-969a-d64b6698e4cd)
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
