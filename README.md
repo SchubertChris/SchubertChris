@@ -36,7 +36,7 @@ Ich entwickle moderne Frontends, baue eigene **Trading-Bots & Tools** und arbeit
 
 | 🖥️ Frontend           | ⚙️ Workflow & KI-Systeme         | 🤖 Backend & Automatisierung               |
 |------------------------|----------------------------------|--------------------------------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_AI-000000?style=flat&logo=anthropic&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 🏗️ ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 🏗️ |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_AI-000000?style=flat&logo=anthropic&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 🚧 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 🚧 |
 
 ---
 
@@ -56,7 +56,7 @@ Ich entwickle moderne Frontends, baue eigene **Trading-Bots & Tools** und arbeit
 
 - 🌐 [CandleScope auf Instagram](https://instagram.com/candlescope)
 - 🧠 [Telegram Bots & Insider-Tipps (in Planung)]
-- 💼 [Mein Portfolio](https://portfolio-chris-schubert.vercel.app/) &nbsp; <img src="https://img.shields.io/badge/Lighthouse-97%2F100%2F100%2F92-blue?style=flat-square&logo=googlechrome&logoColor=white" alt="Lighthouse Score"/>
+- 💼 [Mein Portfolio](https://portfolio-chris-schubert.vercel.app/) &nbsp; <img src="https://img.shields.io/badge/Lighthouse-97%2F100%2F100%2F92-blue?style=flat-square&logo=googlechrome&logoColor=white" alt="Lighthouse Score"/> 🚧
 - 📫 Kontakt: [schubert_chris@rocketmail.com](mailto:schubert_chris@rocketmail.com)
 
 ---
