@@ -2,7 +2,8 @@
 <h3 align="center">Webentwickler | Trading-Enthusiast | Automatisierungs-Freak aus Potsdam</h3> 
 <h2 align="center">🚀 CandleScope – Dein smarter Finanzassistent</h2> 
 <p align="center"> 
-  <strong>🌟 Meine Vision: Die Zukunft der Finanzen, heute erleben. 🌟</strong> 
+  <strong>🌟 Meine Vision: Die Zukunft der Finanzen, heute erleben. 🌟</strong>  
+  Jeder soll seine Finanzen auf einen Blick haben und diese gerne selbst verwalten – ohne auf Dritte angewiesen zu sein. 
 </p> 
 <p align="center"> 
   CandleScope bietet dir die Tools, um deine Finanzen mit modernster Technologie zu optimieren und dein Portfolio effizient zu verwalten – individuell und benutzerfreundlich. 
