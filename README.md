@@ -1,103 +1,110 @@
-<h1 align="center">Hi 👋, ich bin Chris Schubert</h1> 
-<h3 align="center">Webentwickler | Trading-Enthusiast | Automatisierungs-Freak aus Potsdam</h3> 
-<h2 align="center">🚀 CandleScope – Dein smarter Finanzassistent</h2> 
-<p align="center"> 
-  <strong>🌟 Meine Vision: Die Zukunft der Finanzen beginnt jetzt. 🌟</strong>  
-  Stell dir vor, du hast deine Finanzen jederzeit im Griff – einfach, intuitiv und unabhängig. Mit CandleScope wird das Realität.
-</p> 
-<p align="center"> 
-  CandleScope bietet dir die Tools, um deine Finanzen mit modernster Technologie zu optimieren und dein Portfolio effizient zu verwalten – individuell und benutzerfreundlich. 
-</p> 
-<p align="center"> 
-  Performance-Analyse, Portfolio-Tracking und Anlagestrategien – alles in einer modularen Lösung, die dir Kontrolle und Freiheit über dein Vermögen gibt. Ob Privatkunde oder Unternehmer, CandleScope macht deine finanzielle Zukunft smarter und transparenter. 
-</p> 
-<p align="center"> 
-  Innovativ. Effizient. Persönlich. – Das ist CandleScope. 
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/23e9f9e8-dbd8-4bc6-969a-d64b6698e4cd" width="250" height="250" style="margin: 10px;" alt="CandleScope Logo" />
-</p>
+<img src="https://github.com/user-attachments/assets/23e9f9e8-dbd8-4bc6-969a-d64b6698e4cd" width="120" height="120" alt="CandleScope Logo" />
 
-<hr/>
+# Chris Schubert
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8ae6a48a-2481-4af2-8af6-b05352ae927b" width="300" height="500" alt="Profilbild" style="margin: 10px;" />
-</p>
+**Fullstack Developer · Fintech Builder · Trading Enthusiast**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
-  <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Badge"/>
-  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI Badge"/>
-</p>
+*Potsdam, Germany*
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/DISCLAIMER-red?style=for-the-badge&logo=exclamation&logoColor=white" alt="Disclaimer Icon"/>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/TensorFlow%20%26%20Python-im%20Lernprozess%20%2F%20in%20Planung-yellow?style=for-the-badge&logo=exclamation&logoColor=white" alt="TensorFlow & Python Disclaimer"/>
-  </p>
-  </p>
+[![Website](https://img.shields.io/badge/candlescope.de-C9A84C?style=for-the-badge&logoColor=black)](https://candlescope.de)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/candlescope)
+[![Email](https://img.shields.io/badge/hello@candlescope.de-C9A84C?style=for-the-badge&logoColor=black)](mailto:hello@candlescope.de)
 
-
-## 🚀 Über mich
-
-Ich bin ein engagierter Quereinsteiger mit über 13 Jahren Service-Erfahrung auf Top-Level und einer großen Leidenschaft für Webentwicklung, KI-Automatisierung und Trading. Ich entwickle moderne Frontends und strebe in Zukunft an, eigene Trading-Bots und -Tools zu erstellen. Dabei arbeite ich mit AI-Systemen wie ChatGPT und Claude.ai, um Prozesse, Code und Märkte smarter zu analysieren und meine Arbeit so effizient wie möglich zu gestalten.
-Ich bin überzeugt, dass der Mensch nicht alles selbst machen muss. Stattdessen sollten wir die Errungenschaften der Gesellschaft nutzen, um die Welt kontinuierlich zu automatisieren und zu verbessern. Was denkst du darüber?
+</div>
 
 ---
 
-## 🔥 Was ich aktuell baue und in Zukunft bauen möchte
+## Über mich
 
-- 💼 **CandleScope** – Ein Fullstack-Finanzdashboard mit:
-  - 📊 Charts (mit Drag & Drop, Live-Tracking & Darkmode)
-  - 🔐 Auth-System inkl. Admin-Login & 2FA
-  - 📈 Monatsreporting, Portfolio-Analyse & Steuermodul
-- 🤖 **TradingView-Skripte** – Fibonacci, SMC, Volumenprofile uvm.
-- ⚙️ **Python-Automationen** – für Order-Handling & Smart Alerts
-- 🧠 KI-gestützte Features mit OpenAI/Claude – z. B. Bot-Optimierung, Pattern Detection und Backtesting-Analyse
+Ich baue Software die ich selbst nutze — angefangen mit einem Haushaltsbuch weil ich nichts Besseres finden konnte. Heute ist daraus **CandleScope** geworden: eine Fintech-Marke mit eigenen Tools, eigenem Design und einer klaren Vision.
+
+Quereinsteiger mit 13+ Jahren Top-Level Service-Erfahrung. Heute vollständig in der Welt von Code, Märkten und Automatisierung. Ich arbeite täglich mit **React, TypeScript und modernen KI-Tools** — und glaube daran, dass der Mensch sich auf das Wesentliche konzentrieren sollte während Technologie den Rest übernimmt.
+
+> *Kein Influencer. Kein Coach. Einfach jemand der Dinge baut.*
 
 ---
 
-## 🛠️ Tech Stack
+## CandleScope
 
-| 🖥️ Frontend                                                                                                                                                                                                                                                                                | ⚙️ Workflow & KI-Systeme                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 🤖 Backend & Automatisierung                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_AI-000000?style=flat&logo=anthropic&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 🚧 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 🚧 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+<div align="center">
 
----
+**Die Fintech-Marke die ich von Grund auf aufgebaut habe.**
 
-## 📈 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schubertchris&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### Haushaltsbuch — Live
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schubertchris&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+Vollständige Desktop-App für persönliche Finanzen. Einmal kaufen, für immer nutzen.
 
----
+- Dashboard mit Echtzeit-Übersicht über Vermögen, Einnahmen & Ausgaben
+- Jahresanalysen & interaktive Charts
+- Dokumentenarchiv für Verträge & Versicherungen
+- Custom Design — 3 Themes inklusive
+- Lokale Datenspeicherung — keine Cloud, kein Abo, kein Tracking
+- Passwortschutz & Auto-Save
 
-## 📲 Projekte & Kontakt
+### Die Website
 
-- 🌐 [CandleScope auf Instagram](https://instagram.com/candlescope)
-- 🧠 [Trading Bots & Insider-Tipps (in Planung)]
-- 💼 [Mein Portfolio](https://portfolio-chris-schubert.vercel.app/) &nbsp; <img src="https://img.shields.io/badge/Lighthouse-97%2F100%2F100%2F92-blue?style=flat-square&logo=googlechrome&logoColor=white" alt="Lighthouse Score"/> 🚧
-- 📫 Kontakt: [info@candlescope.de](mailto:info@candlescope.de)
+Gebaut mit React + Vite + TypeScript + Tailwind CSS v4 + Framer Motion. Eigenes CMS, eigener Page Builder, eigenes Admin Panel — alles custom entwickelt.
 
----
-
-## 🎯 Interessen & Ziele
-
-- 📊 High-End Dashboards für Krypto, Aktien & Devisen
-- 🤝 Zusammenarbeit mit Devs, Tradern & Visionären
-- 🚀 Eigene SaaS-Plattform mit Community, Bots & Education
+[![candlescope.de](https://img.shields.io/badge/Live%20auf-candlescope.de-C9A84C?style=for-the-badge)](https://candlescope.de)
+[![Repo](https://img.shields.io/badge/GitHub-CS--OP-181717?style=for-the-badge&logo=github)](https://github.com/SchubertChris/CS-OP)
 
 ---
 
-> **„Ich automatisiere, was andere manuell machen – für maximale Effizienz & Freiheit.“**
+## Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Backend & Tooling**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**KI & Automatisierung**
+
+![Claude](https://img.shields.io/badge/Claude_AI-C9A84C?style=flat-square&logo=anthropic&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## Was als nächstes kommt
+
+- Trading Tools & Portfolio Dashboard
+- NestJS API + PostgreSQL Backend für CandleScope
+- Python Automatisierungen & Trading Bots
+- Community Platform
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schubertchris&show_icons=true&theme=dark&bg_color=080808&title_color=C9A84C&icon_color=C9A84C&text_color=F5F0E8&border_color=C9A84C30)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schubertchris&layout=compact&theme=dark&bg_color=080808&title_color=C9A84C&text_color=F5F0E8&border_color=C9A84C30)
+
+</div>
+
+---
+
+<div align="center">
+
+*Built with React · Deployed on Vercel · Est. 2022*
+
+[![candlescope.de](https://img.shields.io/badge/candlescope.de-C9A84C?style=for-the-badge&logoColor=black)](https://candlescope.de)
+
+</div>
