@@ -88,7 +88,7 @@ Ich bin überzeugt, dass der Mensch nicht alles selbst machen muss. Stattdessen 
 - 🌐 [CandleScope auf Instagram](https://instagram.com/candlescope)
 - 🧠 [Trading Bots & Insider-Tipps (in Planung)]
 - 💼 [Mein Portfolio](https://portfolio-chris-schubert.vercel.app/) &nbsp; <img src="https://img.shields.io/badge/Lighthouse-97%2F100%2F100%2F92-blue?style=flat-square&logo=googlechrome&logoColor=white" alt="Lighthouse Score"/> 🚧
-- 📫 Kontakt: [schubert_chris@rocketmail.com](mailto:schubert_chris@rocketmail.com)
+- 📫 Kontakt: [schubert_chris@rocketmail.com](mailto:info@candlescope.de)
 
 ---
 
